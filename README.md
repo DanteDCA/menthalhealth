@@ -32,7 +32,7 @@ Este proyecto analiza cómo la experiencia de estudiar en un país extranjero in
 
 1. Clonar el repositorio:  
    \`\`\`sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/DanteDCA/menthalhealth.git
    \`\`\`
 2. Abrir el archivo `notebook.ipynb` en Jupyter Notebook.
 3. Asegurarse de tener PostgreSQL instalado y cargar los datos desde `students.csv`.
